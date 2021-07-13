@@ -18,8 +18,16 @@ function play(question, answer) {
 }
 
 //calling the function//
-play("Where do i work? ", "Microsoft");
+play("Where do I live", "home");
 
-play("Where do i live? ", "Agra");
+play("What is my birthday date","27 may");
 
-console.log("your score is ", score)
+play("Who is my best friend", "noone");
+
+play("Am I good in studies", "yes");
+
+play("How am I rude, thik-thik, calm person");
+
+console.log("your score is ", score);
+
+console.log("what is your score please reply em truely");
